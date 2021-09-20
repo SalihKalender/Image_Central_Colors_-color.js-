@@ -1,0 +1,16 @@
+{
+  "name": "image-color.js",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.5.4"
+  },
+  "dependencies": {
+    "color.js": "^1.2.0",
+    "sass": "^1.41.1"
+  }
+}
