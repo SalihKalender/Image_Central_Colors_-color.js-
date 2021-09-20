@@ -4,22 +4,22 @@
 
 #### Example
 
-![](.\resources\example_1.png)
+![](./resources/example_1.png)
 
 
 
 #### Example
 
-![](.\resources\example_2.png)
+![](./resources/example_2.png)
 
 
 
 #### Example
 
-![](.\resources\example_3.png)
+![](./resources/example_3.png)
 
 
 
 #### Example
 
-![](.\resources\example_4.png)
+![](./resources/example_4.png)
